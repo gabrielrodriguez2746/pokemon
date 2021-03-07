@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="match_constraint">0dp</dimen>
+
+    <!-- Font dimens -->
+    <dimen name="pokemon_display_font_size">64sp</dimen>
+    <dimen name="pokemon_display_letter_spacing">-0.01</dimen>
+
+    <dimen name="pokemon_headline_xl_font_size">48sp</dimen>
+    <dimen name="pokemon_headline_xl_letter_spacing">0</dimen>
+
+    <dimen name="pokemon_headline_l_font_size">32sp</dimen>
+    <dimen name="pokemon_headline_l_letter_spacing">0</dimen>
+
+    <dimen name="pokemon_headline_m_font_size">24sp</dimen>
+    <dimen name="pokemon_headline_m_letter_spacing">0.01</dimen>
+
+    <dimen name="pokemon_headline_s_font_size">20sp</dimen>
+    <dimen name="pokemon_headline_s_letter_spacing">0.01</dimen>
+
+    <dimen name="pokemon_subtitle_l_font_size">20sp</dimen>
+    <dimen name="pokemon_subtitle_l_letter_spacing">0.01</dimen>
+
+    <dimen name="pokemon_subtitle_m_font_size">16sp</dimen>
+    <dimen name="pokemon_subtitle_m_letter_spacing">0</dimen>
+
+    <dimen name="pokemon_body_l_font_size">18sp</dimen>
+    <dimen name="pokemon_body_l_letter_spacing">0.03</dimen>
+
+    <dimen name="pokemon_body_m_font_size">16sp</dimen>
+    <dimen name="pokemon_body_m_letter_spacing">0.01</dimen>
+
+    <dimen name="pokemon_body_s_font_size">14sp</dimen>
+    <dimen name="pokemon_body_s_letter_spacing">0.02</dimen>
+
+    <dimen name="pokemon_caption_font_size">12sp</dimen>
+    <dimen name="pokemon_caption_letter_spacing">0.03</dimen>
+
+    <dimen name="pokemon_button_l_font_size">24sp</dimen>
+    <dimen name="pokemon_button_l_letter_spacing">0.01</dimen>
+
+    <dimen name="pokemon_button_m_font_size">20sp</dimen>
+    <dimen name="pokemon_button_m_letter_spacing">0.01</dimen>
+
+    <dimen name="pokemon_button_s_font_size">16sp</dimen>
+    <dimen name="pokemon_button_s_letter_spacing">0</dimen>
+
+    <dimen name="pokemon_button_xs_font_size">14sp</dimen>
+    <dimen name="pokemon_button_xs_letter_spacing">0.02</dimen>
+
+    <!-- Spacings -->
+    <dimen name="pokemon_spacing_zero">0dp</dimen>
+    <dimen name="pokemon_spacing_xxs">4dp</dimen>
+    <dimen name="pokemon_spacing_xs">8dp</dimen>
+    <dimen name="pokemon_spacing_s">16dp</dimen>
+    <dimen name="pokemon_spacing_m">24dp</dimen>
+    <dimen name="pokemon_spacing_l">40dp</dimen>
+    <dimen name="pokemon_spacing_xl">64dp</dimen>
+    <dimen name="pokemon_spacing_xxl">96dp</dimen>
+
+    <!-- Elevation -->
+    <dimen name="pokemon_elevation_0">0dp</dimen>
+    <dimen name="pokemon_elevation_1">1dp</dimen>
+    <dimen name="pokemon_elevation_4">4dp</dimen>
+    <dimen name="pokemon_elevation_8">8dp</dimen>
+    <dimen name="pokemon_elevation_16">16dp</dimen>
+
+    <!-- Corner Radius -->
+    <dimen name="pokemon_corner_0">0dp</dimen>
+    <dimen name="pokemon_corner_4">4dp</dimen>
+    <dimen name="pokemon_corner_8">8dp</dimen>
+    <dimen name="pokemon_corner_16">16dp</dimen>
+    <dimen name="pokemon_corner_100">100dp</dimen>
+
+    <dimen name="pokemon_button_stroke_size">1dp</dimen>
+    <dimen name="pokemon_button_no_stroke_size">0dp</dimen>
+
+    <dimen name="pokemon_button_xs_min_height">40dp</dimen>
+    <dimen name="pokemon_button_xs_min_width">64dp</dimen>
+    <dimen name="pokemon_button_xs_icon_size">16dp</dimen>
+    <dimen name="pokemon_button_xs_icon_padding">8dp</dimen>
+
+    <dimen name="pokemon_text_button_s_min_height">48dp</dimen>
+    <dimen name="pokemon_button_s_min_height">48dp</dimen>
+    <dimen name="pokemon_button_s_min_width">96dp</dimen>
+    <dimen name="pokemon_button_s_icon_size">20dp</dimen>
+    <dimen name="pokemon_button_s_icon_padding">8dp</dimen>
+
+    <dimen name="pokemon_button_m_min_height">56dp</dimen>
+    <dimen name="pokemon_button_m_min_width">128dp</dimen>
+    <dimen name="pokemon_button_m_icon_size">24dp</dimen>
+    <dimen name="pokemon_button_m_icon_padding">8dp</dimen>
+
+    <dimen name="pokemon_button_l_min_height">64dp</dimen>
+    <dimen name="pokemon_button_l_min_width">128dp</dimen>
+    <dimen name="pokemon_button_l_icon_size">28dp</dimen>
+    <dimen name="pokemon_button_l_icon_padding">12dp</dimen>
+
+    <dimen name="pokemon_pin_height">46dp</dimen>
+    <dimen name="pokemon_pin_width">74dp</dimen>
+    <dimen name="pokemon_pin_line_width">1dp</dimen>
+    
+</resources>

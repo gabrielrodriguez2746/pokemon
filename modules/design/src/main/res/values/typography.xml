@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextAppearance" />
+
+    <style name="TextAppearance.Pokemon" />
+
+    <style name="TextAppearance.Pokemon.Display">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/pokemon_display_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_display_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.HeadlineXL">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/pokemon_headline_xl_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_headline_xl_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.HeadlineL">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_headline_l_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_headline_l_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.HeadlineM">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_headline_m_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_headline_m_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.HeadlineS">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_headline_s_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_headline_s_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.SubtitleL">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_subtitle_l_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_subtitle_l_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.SubtitleM">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_subtitle_m_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_subtitle_m_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyL">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_body_l_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_body_l_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyL.Regular" />
+
+    <style name="TextAppearance.Pokemon.BodyL.Bold">
+        <item name="android:fontFamily">sans-serif-medium</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyL.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyM">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_body_m_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_body_m_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyM.Regular" />
+
+    <style name="TextAppearance.Pokemon.BodyM.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyM.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyS">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_body_s_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_body_s_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyS.Regular" />
+
+    <style name="TextAppearance.Pokemon.BodyS.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.BodyS.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.Caption">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_caption_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_caption_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.Caption.TabLayout">
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.ButtonL">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_button_l_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_button_l_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.ButtonM">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_button_m_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_button_m_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.ButtonS">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_button_s_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_button_s_letter_spacing</item>
+    </style>
+
+    <style name="TextAppearance.Pokemon.ButtonXS">
+        <item name="android:fontFamily">sans-serif-medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/pokemon_button_xs_font_size</item>
+        <item name="android:letterSpacing">@dimen/pokemon_button_xs_letter_spacing</item>
+    </style>
+    
+</resources>
