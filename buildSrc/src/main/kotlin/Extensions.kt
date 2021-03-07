@@ -8,3 +8,7 @@ fun DependencyHandler.api(depName: String) {
     add("api", depName)
 }
 
+fun DependencyHandler.kapt(depName: String) {
+    add("kapt", depName)
+}
+
