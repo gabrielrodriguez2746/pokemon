@@ -1,0 +1,27 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="PokemonAppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryVariant">@color/color_primary_variant</item>
+
+        <item name="android:colorBackground">@color/color_background</item>
+        <item name="colorOnSurface">@color/color_surface</item>
+        <item name="colorError">@color/color_error</item>
+
+        <!--Material type attributes-->
+        <item name="textAppearanceHeadline1">@style/TextAppearance.Pokemon.Display</item>
+        <item name="textAppearanceHeadline2">@style/TextAppearance.Pokemon.Display</item>
+        <item name="textAppearanceHeadline3">@style/TextAppearance.Pokemon.HeadlineXL</item>
+        <item name="textAppearanceHeadline4">@style/TextAppearance.Pokemon.HeadlineL</item>
+        <item name="textAppearanceHeadline5">@style/TextAppearance.Pokemon.HeadlineM</item>
+        <item name="textAppearanceHeadline6">@style/TextAppearance.Pokemon.HeadlineS</item>
+        <item name="textAppearanceSubtitle1">@style/TextAppearance.Pokemon.SubtitleL</item>
+        <item name="textAppearanceSubtitle2">@style/TextAppearance.Pokemon.SubtitleM</item>
+        <item name="textAppearanceBody1">@style/TextAppearance.Pokemon.BodyL</item>
+        <item name="textAppearanceBody2">@style/TextAppearance.Pokemon.BodyS</item>
+        <item name="textAppearanceCaption">@style/TextAppearance.Pokemon.Caption</item>
+        <item name="textAppearanceOverline">@style/TextAppearance.Pokemon.Caption</item>
+        <item name="textAppearanceButton">@style/TextAppearance.Pokemon.ButtonS</item>
+
+    </style>
+</resources>
