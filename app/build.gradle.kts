@@ -2,7 +2,6 @@ plugins {
     id("com.android.application")
     kotlin("android")
     kotlin("kapt")
-    id("kotlin-android")
     id("dagger.hilt.android.plugin")
 }
 
@@ -18,6 +17,7 @@ dependencies {
     implementation(Libraries.Kotlin.stdLib)
     implementation(project(":modules:design"))
     implementation(project(":modules:network"))
+    implementation(project(":features:landing"))
 
     implementation(Libraries.Externals.dagger)
     kapt(Libraries.Externals.daggerCompiler)
